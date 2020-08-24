@@ -4,7 +4,7 @@ A simple web-based classroom application that allows instructors to add courses 
 
 
 #### What you need to run this code
-1. Node (14.2.0)
+1. Node (14.2.0) or change this to your node version
 2. NPM (6.14.4) or Yarn (1.22.4)
 3. MongoDB (4.2.0)
 
